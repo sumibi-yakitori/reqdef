@@ -1,6 +1,6 @@
 # reqstatic
 
-A thin wrapper of [reqwest](https://github.com/seanmonstar/reqwest)
+A very thin wrapper of [reqwest](https://github.com/seanmonstar/reqwest)
 
 This is intended to simplify the use of pooling and alleviate the following problems.
 
