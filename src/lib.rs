@@ -3,6 +3,7 @@ extern crate lazy_static;
 
 use reqwest::blocking::Client as BlockingClient;
 use reqwest::Client;
+pub use reqwest::*;
 
 lazy_static! {
   static ref CLIENT: Client = Client::new();
